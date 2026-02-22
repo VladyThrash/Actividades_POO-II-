@@ -4,5 +4,7 @@
 
 ##### **Listado de actividades:**
 
-* \[Generic Tuple](./Generic\_Tuple\_YCV)
-* \[Ordenamiento Generico](./Ordenamiento\_Generico\_YCV)
+\*\[Generic Tuple](./Generic\_Tuple\_YCV)
+
+\*\[Ordenamiento Generico](./Ordenamiento\_Generico\_YCV)
+
